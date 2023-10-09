@@ -1,0 +1,16 @@
+{
+  "name": "@sutriptaroy/base-package",
+  "version": "1.0.0",
+  "description": "Base package for Typescript Project",
+  "main": "app/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sutripta Roy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "tslib": "^2.6.2",
+    "zod": "^3.22.4"
+  }
+}
